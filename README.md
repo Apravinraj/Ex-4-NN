@@ -1,4 +1,4 @@
-<H3>NAME   : Prqvin Raj A</H3>
+<H3>NAME   : Pravin Raj A</H3>
 <H3>REG NO :212222240079</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3>
